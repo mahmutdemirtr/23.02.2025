@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/pricing-plans/add-card/page": "app/pricing-plans/add-card/page.js",
+  "/page": "app/page.js",
+  "/pricing-plans/page": "app/pricing-plans/page.js",
+  "/profile/[id]/gallery/[imgId]/page": "app/profile/[id]/gallery/[imgId]/page.js",
+  "/profile/[id]/page": "app/profile/[id]/page.js",
+  "/search/page": "app/search/page.js",
+  "/test-component/page": "app/test-component/page.js",
+  "/start-unlocking/page": "app/start-unlocking/page.js",
+  "/unlock-steps/page": "app/unlock-steps/page.js",
+  "/unlock/page": "app/unlock/page.js"
+}

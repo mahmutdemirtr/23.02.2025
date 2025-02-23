@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/home/ec2-user/hifi_app 3/app/layout":["static/media/47cbc4e2adbc5db9-s.p.woff2","static/media/6a7a7a30cb60abfb-s.p.woff2","static/media/d2b0c6b6bbc0a40b-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
